@@ -1,0 +1,60 @@
+const Menu = [
+  {
+    id: 1,
+    image: "images/maggi.webp",
+    name: "maggi",
+    category: "lunch",
+    price: 25,
+    description: "loremafdsfsa",
+  },
+  {
+    id: 2,
+    image: "images/burger.jpeg",
+    name: "Burger",
+    category: "dinner",
+    price: 50,
+    description: "Juicy grilled burger with cheese and veggies.",
+  },
+  {
+    id: 3,
+    image: "images/pizza.jpeg",
+    name: "Pizza",
+    category: "dinner",
+    price: 150,
+    description: "Delicious cheese pizza with extra toppings.",
+  },
+  {
+    id: 4,
+    image: "images/pasta.jpg",
+    name: "Pasta",
+    category: "lunch",
+    price: 120,
+    description: "Creamy white sauce pasta with herbs.",
+  },
+  {
+    id: 5,
+    image: "images/salad.jpeg",
+    name: "Salad",
+    category: "breakfast",
+    price: 80,
+    description: "Healthy green salad with fresh veggies.",
+  },
+  {
+    id: 6,
+    image: "images/sandwich.jpeg",
+    name: "Sandwich",
+    category: "breakfast",
+    price: 40,
+    description: "Toasted sandwich with veggies and sauces.",
+  },
+  {
+    id: 7,
+    image: "images/coffee.jpeg",
+    name: "Coffee",
+    category: "evening",
+    price: 30,
+    description: "Hot brewed coffee with rich aroma.",
+  },
+];
+
+export default Menu;
